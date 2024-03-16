@@ -1,0 +1,29 @@
+.formulario {
+    display: flex;
+    flex-wrap: wrap; 
+}
+
+.datos-auto,
+.datos-usuario {
+    flex: 1 1 45%; 
+    margin-right: 20px; 
+}
+
+.form {
+    width: 100%; 
+}
+
+.form select {
+    width: 100%;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 25px; 
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.form select option {
+    background-color: rgba(98, 79, 76, 0.9); 
+    color: #fff;
+}

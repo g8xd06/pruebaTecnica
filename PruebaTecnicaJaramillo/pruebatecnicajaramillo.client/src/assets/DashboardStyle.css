@@ -1,0 +1,36 @@
+.container {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logout-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: rgba(98,79,76,0.9);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.logout-button:hover {
+    background-color: #ababab;
+    color: #000000;
+}
+
+.options-container {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    background-color: #eee;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}

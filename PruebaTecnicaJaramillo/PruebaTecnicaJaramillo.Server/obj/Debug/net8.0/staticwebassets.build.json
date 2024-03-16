@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "c2g45hOANAs36pJEEvzgyPzs3FMQFJrHdLehNNY29Ng=",
+  "Source": "PruebaTecnicaJaramillo.Server",
+  "BasePath": "_content/PruebaTecnicaJaramillo.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jaram\\source\\repos\\PruebaTecnicaJaramillo\\pruebatecnicajaramillo.client\\pruebatecnicajaramillo.client.esproj",
+      "Version": 2,
+      "Source": "pruebatecnicajaramillo.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

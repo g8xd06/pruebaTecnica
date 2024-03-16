@@ -1,0 +1,23 @@
+button {
+    background-color: rgba(98, 79, 76, 0.9);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    max-height: 100px;
+    font-size: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s; 
+}
+
+.opciones{
+    min-height:30%;
+    min-width:30%;
+    margin: 30px;
+}
+
+
+    button:hover {
+        background-color: #ababab;
+        color: #000000;
+    }

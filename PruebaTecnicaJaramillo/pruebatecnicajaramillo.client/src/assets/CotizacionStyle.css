@@ -1,0 +1,33 @@
+.cotizacion {
+    background-color: #eee;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    display: flex;
+}
+
+.numero-cotizacion,
+.precio {
+    font-weight: bold;
+}
+
+.auto,
+.usuario {
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+    padding: 0 20px;
+}
+
+.auto,
+.usuario {
+    flex: 1; 
+    padding: 0 20px;
+}
+
+h2,
+p {
+    text-align: center;
+    margin: 5px 0;
+}
+
