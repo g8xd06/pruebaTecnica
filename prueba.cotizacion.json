@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "65f244a8aee14ed362d80468"
+  },
+  "datos_auto": {
+    "marca": "Honda",
+    "costo": 13500.57,
+    "modelo": "CR-V",
+    "seguro": "completo",
+    "cobertura": "limitada",
+    "fabricacion": 2002
+  },
+  "datos_usuario": {
+    "nombre": "Adrian",
+    "apellido": "Jaramillo",
+    "cedula": "4-816-1471",
+    "nacimiento": "06-05-2002",
+    "telefono": "6980-4656",
+    "_id": {
+      "$oid": "65f562162668d109517c6830"
+    }
+  },
+  "cotizacion": 1,
+  "precio": 214.77
+},
+{
+  "_id": {
+    "$oid": "65f563e05ffb8bc2455054ab"
+  },
+  "datos_auto": {
+    "marca": "Hyundai",
+    "costo": 12370,
+    "modelo": "Creta",
+    "seguro": "completo",
+    "cobertura": "limitada",
+    "fabricacion": 2012
+  },
+  "datos_usuario": {
+    "nombre": "Adrian",
+    "apellido": "Jaramillo",
+    "cedula": "4-816-1471",
+    "nacimiento": "06-05-2002",
+    "telefono": "6980-4656",
+    "_id": {
+      "$oid": "65f562162668d109517c6830"
+    }
+  },
+  "cotizacion": 2,
+  "precio": 214.77
+},
+{
+  "_id": {
+    "$oid": "65f564b55ffb8bc2455054ad"
+  },
+  "datos_auto": {
+    "marca": "Nissan",
+    "costo": 8000,
+    "modelo": "Sentra",
+    "seguro": "terceros",
+    "cobertura": "limitada",
+    "fabricacion": 2008
+  },
+  "datos_usuario": {
+    "nombre": "Adrian",
+    "apellido": "Jaramillo",
+    "cedula": "4-816-1471",
+    "nacimiento": "06-05-2002",
+    "telefono": "6980-4656",
+    "_id": {
+      "$oid": "65f562162668d109517c6830"
+    }
+  },
+  "cotizacion": 3,
+  "precio": 300
+},
+{
+  "_id": {
+    "$oid": "65f565ce5ffb8bc2455054b1"
+  },
+  "datos_auto": {
+    "marca": "Nissan",
+    "costo": 8000,
+    "modelo": "4runner",
+    "seguro": "terceros",
+    "cobertura": "limitada",
+    "fabricacion": 2004
+  },
+  "datos_usuario": {
+    "nombre": "Adrian",
+    "apellido": "Jaramillo",
+    "cedula": "4-816-1471",
+    "nacimiento": "06-05-2002",
+    "telefono": "6980-4656",
+    "_id": {
+      "$oid": "65f562ed2668d109517c6832"
+    }
+  },
+  "cotizacion": 4,
+  "precio": 540
+}]
